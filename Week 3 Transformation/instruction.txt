@@ -1,0 +1,8 @@
+a = clockwise
+b = anticlockwise
+c = scale up
+d = scale down
+e = right move
+f = left move
+r = reset
+x = exit
